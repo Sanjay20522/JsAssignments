@@ -21,7 +21,7 @@ for (let fruit of fruits) {
 
 //object and keys:
 
-let person = { name: "Naveen", age: 22, city: "Chennai" };
+let person = { name: "Sanjay", age: 20, city: "Chennai" };
 for (let key in person) {
   console.log(key, ":", person[key]);
 }
